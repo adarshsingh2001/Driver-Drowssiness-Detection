@@ -14,7 +14,7 @@ This Project based on Deep Learning(CNN), Computer Vision and Image Preprocessin
 * OpenCV(cv2)
 * Numpy
 * Keras
-* os
+* OS
 
 
 
@@ -28,4 +28,12 @@ This Project based on Deep Learning(CNN), Computer Vision and Image Preprocessin
 4. Run the Training Model file in your jupyter notebook.(It will take some time to build the CNN network and train upon it.)
 5. Finally run the Drowsiness Detection (webcam) in your jupyter notebook and allow your camera to take videos.
 6. Enjoy the Program.
+
+
+
+# Observation
+
+
+
+ ![picture alt](http://via.placeholder.com/200x150 "Not Drowsy")                                    ![picture alt](http://via.placeholder.com/200x150 "Drowsy")
 
