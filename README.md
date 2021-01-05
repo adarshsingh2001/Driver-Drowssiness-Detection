@@ -1,0 +1,2 @@
+# Driver-Drowssiness-Detection
+This Project based on Deep Learning(CNN), Computer Vision and Image Preprocessing detects the drowsiness of a vehicle driver driving on road at night. There are a lots of people who fell asleep while driving. This Program connected to the pre-build car camera always keeps a check on the driver’s eyes. Whenever the driver closes his/her eyes for prolonged period of 4-5 seconds, our program also connected with an alarm system plays the Alarm at loud volume, thus bringing the driver back to his consciousness.
