@@ -35,5 +35,9 @@ This Project based on Deep Learning(CNN), Computer Vision and Image Preprocessin
 
 
 
- ![picture alt](https://github.com/adarshsingh2001/Driver-Drowssiness-Detection/blob/main/Observation/Screenshot%20(10).png "Not Drowsy")                                    ![picture alt](http://via.placeholder.com/200x150 "Drowsy")
+ ![picture alt](https://github.com/adarshsingh2001/Driver-Drowssiness-Detection/blob/main/Observation/Screenshot%20(10).png "Not Drowsy")  
+ 
+ 
+ 
+ ![picture alt](https://github.com/adarshsingh2001/Driver-Drowssiness-Detection/blob/main/Observation/Screenshot%20(11).png "Drowsy")
 
